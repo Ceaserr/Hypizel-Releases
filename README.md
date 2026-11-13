@@ -11,7 +11,7 @@ Downloadable releases for **Hypizel**, a Fabric client mod for Hypixel SkyBlock,
 
 The core is preconfigured to use this repository. Starting with core **0.2.3**, **H → Addons → Hypizel (Core) → Update** also updates the main mod after Minecraft closes. Existing 0.2.2 users need one manual upgrade to the latest core to enable this feature. Addons can also be installed manually from release assets. Do not install the JSON catalog as a mod.
 
-Core **0.2.4** checks for compatible installed core/addon updates once when Minecraft launches and shows a native notification if any are available. The hub also displays **Download** buttons for published addons; unreleased addons stay **Coming soon**. Checks fetch only the catalog, and downloads require a click. Launch checks and notifications can be switched off separately in **Hypizel → Settings**. Update from 0.2.3 using the in-game core **Update** button, then close and relaunch Minecraft.
+Core **0.2.5** checks for compatible installed core/addon updates once when Minecraft launches and shows a native notification if any are available. **Click that notification to open Addons directly**, then choose the update to download. The hub also displays **Download** buttons for published addons; unreleased addons stay **Coming soon**. Checks fetch only the catalog, and downloads require a click. Launch checks and notifications can be switched off separately in **Hypizel → Settings**. Update from 0.2.3 or newer using the in-game core **Update** button, then close and relaunch Minecraft.
 
 ## Addons
 
