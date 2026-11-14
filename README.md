@@ -16,7 +16,7 @@ Core **0.2.5** checks for compatible installed core/addon updates once when Mine
 ## Addons
 
 - **Hypizel (Economy):** Bazaar and auction research, flips, budget, watches, alerts and in-game market navigation. Requires the local Hypizel dashboard.
-- **Hypizel (Mining):** sack-aware mining sessions, Bazaar/NPC estimates, powder and ore widgets, forge planning, the `/mf` fortune guide and Pickobulus preview/cooldown widget. Price-based estimates use the local dashboard; mining capture and Pickobulus features work independently.
+- **Hypizel (Mining) 0.6.0:** sack-aware sessions, Bazaar/NPC estimates, powder and ore widgets, forge planning, the `/mf` fortune guide and Pickobulus. **Mining → Forge calculator** adds searchable recipe trees and saved material checklists, including prerequisite drill upgrades. The calculator works offline; price-based estimates use the local dashboard.
 
 The manager checks Minecraft and dependency compatibility, exact file size, SHA-256 and mod identity before staging a download. It applies queued installs after the game exits and retains the previous core/addon JAR outside `mods` when updating. Core updates check whether installed addons support the new version. Existing configuration and session files are preserved.
 
